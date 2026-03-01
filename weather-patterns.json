@@ -1,0 +1,59 @@
+{
+  "id": "theme-weather-patterns",
+  "title": "Weather Patterns",
+  "description": "A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.",
+  "seedPalette": [
+    "#ff9800",
+    "#ffeb3b",
+    "#adcbe3",
+    "#607d8b",
+    "#2196f3",
+    "#3f51b5",
+    "#455a64"
+  ],
+  "colorConcepts": [
+    [
+      "sunset",
+      "golden",
+      "twilight"
+    ],
+    [
+      "sun",
+      "bright",
+      "clear"
+    ],
+    [
+      "cloud",
+      "grey",
+      "overcast"
+    ],
+    [
+      "fog",
+      "haze",
+      "atmosphere"
+    ],
+    [
+      "rain",
+      "drizzle",
+      "mist"
+    ],
+    [
+      "storm",
+      "thunder",
+      "lightning"
+    ],
+    [
+      "wind",
+      "breeze",
+      "gust"
+    ]
+  ],
+  "primary": "45 100% 50%",
+  "background": "210 20% 15%",
+  "accent": "210 20% 25%",
+  "imageStyle": {
+    "complexity": "minimal",
+    "style": "abstract",
+    "detail": "loose"
+  }
+}
