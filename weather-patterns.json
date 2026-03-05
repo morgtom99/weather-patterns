@@ -2,6 +2,8 @@
   "id": "theme-weather-patterns",
   "title": "Weather Patterns",
   "description": "A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.",
+  "owner": "morgtom99",
+  "repository": "weather-patterns",
   "seedPalette": [
     "#ff9800",
     "#ffeb3b",
@@ -54,6 +56,8 @@
   "imageStyle": {
     "complexity": "minimal",
     "style": "abstract",
-    "detail": "loose"
+    "detail": "loose",
+    "dimension": "3d",
+    "lighting": "ambient"
   }
 }
