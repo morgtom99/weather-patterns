@@ -58,6 +58,16 @@
     "style": "abstract",
     "detail": "loose",
     "dimension": "3d",
-    "lighting": "ambient"
-  }
+    "lighting": "ambient",
+    "texture": "none"
+  },
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
