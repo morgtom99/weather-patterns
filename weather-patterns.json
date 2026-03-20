@@ -58,16 +58,43 @@
     "style": "abstract",
     "detail": "loose",
     "dimension": "3d",
-    "lighting": "ambient",
-    "texture": "none"
+    "lighting": "natural"
   },
-  "colorDescriptions": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+  "conceptPrompts": [
+    [
+      "[Subject: SUNSET]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #ff9800.",
+      "[Subject: GOLDEN]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #ff9800.",
+      "[Subject: TWILIGHT]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #ff9800."
+    ],
+    [
+      "[Subject: SUN]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #ffeb3b.",
+      "[Subject: BRIGHT]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #ffeb3b.",
+      "[Subject: CLEAR]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #ffeb3b."
+    ],
+    [
+      "[Subject: CLOUD]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #adcbe3.",
+      "[Subject: GREY]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #adcbe3.",
+      "[Subject: OVERCAST]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #adcbe3."
+    ],
+    [
+      "[Subject: FOG]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #607d8b.",
+      "[Subject: HAZE]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #607d8b.",
+      "[Subject: ATMOSPHERE]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #607d8b."
+    ],
+    [
+      "[Subject: RAIN]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #2196f3.",
+      "[Subject: DRIZZLE]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #2196f3.",
+      "[Subject: MIST]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #2196f3."
+    ],
+    [
+      "[Subject: STORM]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #3f51b5.",
+      "[Subject: THUNDER]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #3f51b5.",
+      "[Subject: LIGHTNING]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #3f51b5."
+    ],
+    [
+      "[Subject: WIND]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #455a64.",
+      "[Subject: BREEZE]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #455a64.",
+      "[Subject: GUST]. A high-fidelity abstract aesthetic. Theme: Weather Patterns. Aesthetic Context: A dynamic theme reflecting the ever-changing moods of the atmosphere, from sunshine to storms.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, loose level of detail. Primary color: #455a64."
+    ]
   ]
 }
